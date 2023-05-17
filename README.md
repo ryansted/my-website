@@ -1,5 +1,5 @@
 Helllllllllloooooooooooooooooooo
 
-this is my portfolio website that I built with the help of @webdecoded
+this is my portfolio website that I'm building with the help of @judygab
 and bootstrap.
 
