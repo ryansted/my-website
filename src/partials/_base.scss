@@ -14,7 +14,7 @@
     overflow-x: hidden;
     position: relative;
     background-color: $background !important;
-    color: $seasalt !important;
+    color: $ice !important;
     // add font families
   }
   
@@ -40,10 +40,10 @@
     height: auto;
   }
   
-  button {
-    border: 0;
-    background-color: transparent;
-  }
+//   button {
+//     border: 0;
+//     background-color: transparent;
+//   }
   
   input:focus, textarea:focus, select:focus {
     outline: none;
